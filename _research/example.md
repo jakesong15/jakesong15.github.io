@@ -1,7 +1,7 @@
 ---
 title: "Research experience 1"
 collection: research
-type: "Researchz"
+type: "Research"
 permalink: /research/example
 venue: "University 1, Department"
 date: 2014-01-01
