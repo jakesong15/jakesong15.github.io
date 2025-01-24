@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jake Song"
+title                    : "Jake Song, PhD"
 title_separator          : "-"
 name                     : &name "Jake Song"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jake Song"
-  pronouns         : "he / him" 
+  pronouns         : # "he / him" 
   bio              : # "NIH F32 Postdoctoral Fellow"
-  location         : "Palo Alto, CA"
+  location         : "San Francisco, CA"
   employer         : "Stanford University"
   uri              : # URL
   email            : "jakesong@stanford.edu" 
