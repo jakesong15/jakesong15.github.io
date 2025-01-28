@@ -7,7 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi - welcome to my research homepage! I'm Jake Song - a materials scientist by training with a diverse range of research experience in polymers and soft matter, mechanical engineering, and bioengineering. I'm interested in understanding the physical properties of soft and living materials, and how these properties can impact areas ranging from mechanobiology 
+Hi - welcome to my research homepage! I'm Jake Song - a materials scientist with a specialization in the mechanics of polymers and soft matter. 
+
+I'm Jake Song - a materials scientist who studies the unique mechanical properties of biopolymer hydrogels, extracellular matrices, and tissues, and their roles in the development and disease of living tissues.
+
+
+I am particularly interested in the mechanics of biologically and/or biomedically-relevant soft matter systems such as cells, extracellular matrices, tissues, and engineered hydrogels. As a PhD student in the McKinley group and the Holten-Andersen group at MIT, I studied in detail the inelastic and non-linear mechanical properties of composite hydrogels - a model system which mimics the structural complexity of living tissues. As a current postdoc at the Chaudhuri lab at Stanford University, I am exploring how the inelastic properties of the extracellular matrix can mediate essential cellular behaviors in living tissues. As an independent researcher, I aim to explore the unique mechanical properties of biopolymers, extracellular matrices, and tissues, and their role in tissue development and disease. 
+
+
+
+
+
+and am currently exploring how their mechanical properties can play a pivotal role in their biological function. 
+
+
+by training with an interdisciplinary expertise in 
+mechanics, soft matter, and 
+
+with 
+broad expertise in the mechanical properties of soft materials.  
+
+by training with a diverse range of research experience in polymers and soft matter, mechanical engineering, and bioengineering. I'm interested in understanding the physical properties of soft and living materials, and how these properties can impact areas ranging from mechanobiology 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
