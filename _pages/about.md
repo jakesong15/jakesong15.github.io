@@ -9,15 +9,33 @@ redirect_from:
 
 Hi - welcome to my research homepage! I'm Jake Song - a materials scientist with a specialization in polymers, soft matter, and living systems. 
 
-As a researcher, I am interested in studying the unique mechanical properties of biopolymer hydrogels, extracellular matrices, and tissues, and reverse-engineering these properties with engineered soft materials. I am also interested in applying these platforms to study the mechanical role of the biological microenvironment (of extracellular matrices or bioengineered hydrogels, for example) in guiding the development and disease of living tissues. 
-
-As a PhD student in the McKinley group and the Holten-Andersen group at MIT, I studied in detail the inelastic and non-linear mechanical properties of composite hydrogels - a model system which mimics the structural complexity of living tissues. As a current postdoc at the Chaudhuri lab at Stanford University, I am studying how the inelastic properties of extracellular matrix can mediate cellular metabolism in chondrocytes for cartilage tissue engineering and disease modeling applications. 
+My research interest is in the unique mechanical properties of biopolymer hydrogels, extracellular matrices, and tissues. As a PhD student in the McKinley group and the Holten-Andersen group at MIT, I studied the inelastic and non-linear mechanical properties of composite hydrogels - a model system which mimics the structural complexity of living tissues. As a current postdoc at the Chaudhuri lab at Stanford University, I am studying how the mechanical properties of the extracellular matrix can mediate cellular metabolism in chondrocytes for cartilage tissue engineering and disease modeling applications. In the future, I am interested in leveraging these ideas to develop design strategies for biomimetic soft materials, and to develop a deeper understanding of the role of biological materials mechanics on the development and disease of various living tissues in the body.
 
 Beyond these topics, I have a diverse research portfolio in polymer science that includes prior research experiences in designing dynamic and self-healing polymer hydrogels using bio-inspired coordination chemistry during my PhD at MIT, and in studying the physics of nanooconfined polymers as a BS student in the Keten group at Northwestern University. I also worked as a research intern at Motif Foodworks where I worked on designing plant-based cheese, and have an ongoing interest in engineering food mechanics using techniques from soft matter science and materials science.
 
 Besides research, I am passionate about outreach and mentorship endeavors aimed at introducing students to the basic practice of academic research in engineering, which to me is not only one of the most fun part of studying STEM, but also is an effective method to develop an analytical mindset which can help address challenges in any discipline.
 
+
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
