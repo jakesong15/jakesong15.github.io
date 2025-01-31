@@ -13,7 +13,7 @@ My research interest is in the unique mechanical properties of biological materi
 
 Beyond these topics, I have a diverse research portfolio in polymer science that includes prior research experiences in designing dynamic and self-healing polymer hydrogels using bio-inspired coordination chemistry during my PhD at MIT, and in studying the physics of nanooconfined polymers as a BS student in the Keten group at Northwestern University. I also worked as a research intern at Motif Foodworks where I worked on designing plant-based cheese, and have an ongoing interest in engineering food mechanics using techniques from soft matter science and materials science.
 
-Besides research, I am passionate about outreach and mentorship endeavors aimed at introducing students to the basic practice of academic research in engineering, which to me is not only one of the most fun part of studying STEM, but also is an effective method to develop an analytical mindset which can help address challenges in any discipline.
+Besides research, I am passionate about mentoring students and providing experience in academic research, which to me is not only one of the most fun part of studying STEM, but also is an effective method to develop an analytical mindset which can help address challenges in any discipline.
 
 
 ---
