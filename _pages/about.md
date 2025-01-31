@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi - welcome to my research homepage! I'm Jake Song - a materials scientist with a specialization in polymers, soft matter, and living systems. 
+Hi - welcome to my research homepage! I'm Jake Song - a materials scientist specializing in polymers, soft matter, and living systems. 
 
 My research interest is in the unique mechanical properties of biological materials, such as polymer hydrogels, extracellular matrices, and tissues. As a PhD student in the McKinley group and the Holten-Andersen group at MIT, I studied the inelastic and non-linear mechanical properties of composite hydrogels - a model system which mimics the structure of living tissues. As a current postdoc in the Chaudhuri lab at Stanford University, I am studying how the metabolic behaviors of chondrocytes (cells that reside in the cartilage) are mediated by the mechanical properties of the extracellular matrix for tissue engineering applications. In the future, I am interested in leveraging these ideas to develop new design strategies for biomimetic soft materials, and to develop a deeper understanding of how the mechanical properties of biological materials guide the development and disease of various living tissues in the body.
 
