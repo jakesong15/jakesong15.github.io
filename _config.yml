@@ -83,6 +83,12 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+research_category:
+  currres:
+    title: 'Current Interests'
+  pastres:
+    title: 'Previous Projects'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
