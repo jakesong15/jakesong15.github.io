@@ -11,8 +11,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching and Service"
-    url: /teaching/    
-    
   - title: "CV"
     url: /cv/
