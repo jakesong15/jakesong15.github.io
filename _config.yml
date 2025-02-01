@@ -243,11 +243,11 @@ defaults:
       type: posts
     values:
       layout: single
-      #author_profile: true
-      #read_time: true
-      #comments: true
-     # share: true
-      #related: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -281,15 +281,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      #comment: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      #author_profile: true
-      #share: true
+      author_profile: true
+      share: true
   # _research
   - scope:
       path: ""
