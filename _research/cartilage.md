@@ -1,6 +1,5 @@
 ---
 title: "Cartilage mechanobiology"
-layout: single-portfolio
 excerpt: "<img src='/images/500x300.png'><br/>Short description of portfolio item number 1"
 collection: research
 ---
