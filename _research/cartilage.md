@@ -3,7 +3,6 @@ title: "Cartilage mechanobiology"
 layout: single-portfolio
 excerpt: "<img src='/images/500x300.png'><br/>Short description of portfolio item number 1"
 collection: research
-permalink: /research/cartilage
 ---
 
 I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte fate in quiescence and under external mechanical stresses. 
