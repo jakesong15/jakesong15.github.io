@@ -1,9 +1,8 @@
 ---
-title: "Cartilage mechanobiology"
-layout: single-portfolio
-collection: research
-permalink: /research/cartilage
-order_number: 30
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
 
 <h2>Current Interests</h2>
