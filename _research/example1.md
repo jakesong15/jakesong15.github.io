@@ -2,7 +2,6 @@
 title: "Cartilage mechanobiology"
 layout: single-portfolio
 collection: research
-permalink: /research/cartilage
 order_number: 30
 ---
 
