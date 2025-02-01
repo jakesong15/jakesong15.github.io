@@ -1,8 +1,8 @@
 ---
-title: "Research experience 1"
+title: "Cartilage mechanobiology (current)"
 collection: research
 type: "Research"
-permalink: /research/example
+permalink: /research/example1.md
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
