@@ -5,9 +5,7 @@ collection: research
 order_number: 30
 ---
 
-
-
-As a postdoctoral fellow in the Chaudhuri lab, I am exploring how chondrocytes
+I am currently studying how chondrocytes sense the mechanical properties of their surrounding extracellular matrix, both in quiescence and under external mechanical stresses. 
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
