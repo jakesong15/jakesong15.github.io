@@ -1,14 +1,10 @@
 ---
-title: "Research experience 1"
+title: "Non-linear tissue mechanics"
+excerpt: "<img src='/images/500x300.png'><br/>I developed rheometric techniques to analyze the non-linear elasticity and plasticity of soft tissues and composite hydrogels."
 collection: research
-type: "Research"
-permalink: /research/example
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte
 
 Heading 1
 ======
