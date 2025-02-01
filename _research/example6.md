@@ -1,11 +1,7 @@
 ---
-title: "Research experience 1"
+title: "Nanoconfined polymer physics"
+excerpt: "<img src='/images/500x300.png'><br/>I developed and used coarse-grained models for polymers to study their mechanics under nanoscale confinement."
 collection: research
-type: "Research"
-permalink: /research/example
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
