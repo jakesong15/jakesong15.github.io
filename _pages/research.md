@@ -12,9 +12,6 @@ I am interested in the unique mechanical properties of biological soft materials
 ## Previous Projects
 
 I have been involved in a wide range of research projects in polymers, soft matter, and living systems throughout my time at Stanford, MIT, and Northwestern. You can find examples of these projects below:
-
-## 
-
 {% include base_path %}
 
 {% assign ordered_pages = site.research %}
