@@ -5,8 +5,6 @@ excerpt: "<img src='/images/500x300.png'><br/>Short description of portfolio ite
 collection: research
 permalink: /research/cartilage
 order_number: 30
-header:
-  og_image: "500x300.png"
 ---
 
 I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte fate in quiescence and under external mechanical stresses. 
