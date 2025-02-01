@@ -1,11 +1,9 @@
 ---
-title: "Cartilage mechanobiology (current)"
+title: "Cartilage mechanobiology"
+layout: single-portfolio
 collection: research
-type: "Research"
-permalink: /research/example1.md
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /research/cartilage
+order_number: 30
 ---
 
 
