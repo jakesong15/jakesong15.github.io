@@ -29,11 +29,11 @@ Lastly, we used these models to study the nanoscale mechanical response of subst
 
 ## References
 
-1. Xia, W.*, **Song, J.***, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. “Energy Renormalization for Temperature Transferable Coarse-Graining of Polymer Dynamics”. Macromolecules. 50(21), 8787-8796 (2017)
+1. Xia, W.*, <b>Song, J.*</b>, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. “Energy Renormalization for Temperature Transferable Coarse-Graining of Polymer Dynamics”. Macromolecules. 50(21), 8787-8796 (2017)
 2. **Song, J.**, Hsu, D. D., Shull, K. R., Phelan Jr, F. R., Douglas, J. F., Xia, W., & Keten, S. “Coarse-Grained Modelling of Polymer Viscoelasticity via Energy Renormalization.” Macromolecules. 51(10), 3818-3827 (2018)
 3. Xia, W., **Song, J**., Krishnamurthy, N., Phelan Jr, F. R., Keten, S., & Douglas, J. F.  “Energy Renormalization for Coarse-Graining the Dynamics of a Model Glass-Forming Liquid”. Journal of Physical Chemistry B. 122(6), 2040-2045 (2018)
 4. Hsu, D. D., Xia, W., **Song, J.**, & Keten, S. “Glass-Transition and Side-Chain Dynamics in Thin Films: Explaining Dissimilar Free Surface Effects for Polystyrene vs Poly(methyl methacrylate)”. ACS Macro Letters 5, 481-486 (2016)
 5. Xia, W., **Song, J.**, Hsu, D. D., & Keten, S. “Side-Group Size Effects on Interfaces and Glass Formation in Supported Polymer Thin Films” The Journal of Chemical Physics. 146(20), 203311 (2017)
 6. Hsu, D. D., Xia, W., **Song, J.**, & Keten, S. “Prediction of Local Glass Transition Temperature of Polystyrene and Poly(methyl methacrylate) Bilayer Thin Films”. MRS Communications. 7(4), 832-839 (2017)
-7. Xia, W.*, **Song, J.***, Hsu, D. D., & Keten, S. “Understanding the Interfacial Mechanical Response of Nanoscale Polymer Thin Films via Nanoindentation”. Macromolecules 49(10), 3810-3817 (2016)
-8. **Song, J.***, Kahraman, R.*, Collinson, D.*, Xia, W., Brinson, L. C., & Keten, S. “Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers”. Soft Matter. 15(3), 359-370 (2019)
+7. Xia, W.*, <b>Song, J.*</b>, Hsu, D. D., & Keten, S. “Understanding the Interfacial Mechanical Response of Nanoscale Polymer Thin Films via Nanoindentation”. Macromolecules 49(10), 3810-3817 (2016)
+8. <b>Song, J.*</b>, Kahraman, R.*, Collinson, D.*, Xia, W., Brinson, L. C., & Keten, S. “Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers”. Soft Matter. 15(3), 359-370 (2019)
