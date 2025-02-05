@@ -11,21 +11,21 @@ Coarse-grained modeling
 
 Nanoconfinement effects can occur over tens of nanometers, which can be challenging to simulate using conventional atomistic simulation techniques. An approach to circumvent this problem is to utilize coarse-grained models that reduce the structural degrees-of-freedom, which allows tractable simulations of materials which are hundreds of nanometers in size. However, such coarse-graining methods will necessarily result in inaccurate dynamical properties relative to atomistic systems. To address this problem. [Wenjie Xia](https://faculty.sites.iastate.edu/wxia/) and I developed a coarse-graining algorithm for polymers in which the interaction potential of the coarse-grained model is “renormalized” to the atomistic model based on their glassy dynamics and cage mobility. We successfully developed models for the thermoplastic polystryrene [1], the rubbery polymer polybutadiene [2], and molecular glass forming liquid ortho-terphenyl [3]. 
       
-  <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <div style="text-align: justify; text-justify: inter-word;"><em>Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al [2].</em></div>
+  <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <div style="text-align: center;"><em>Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al [2].</em></div>
 
 Nanoconfinement effects on chain mobility
 ------
 
 Next, using these models, we studied the dynamics of polymers under different confinement effects arising from free surfaces, polymeric substrates, and rigid substrates and fillers. We demonstrated that polymer architecture can play a significant role in the nanoconfinement effect, as polymers with bulkier side-chains undergo a greater increase in chain mobility under free-surface confinement [4], but a smaller decrease in chain mobility under substrate confinement [5]. We also demonstrated that a large interphase region can exist when both of these polymers form a soft interface with each other [6]. 
 
-<img src='/images/CG2.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <div style="text-align: justify; text-justify: inter-word;"><em>Representative free-standing thin film configurations, taken from Hsu et al [4].</em></div>
+<img src='/images/CG2.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <div style="text-align: center;"><em>Representative free-standing thin film configurations, taken from Hsu et al [4].</em></div>
 
 Nanomechanical characterization
 ------
 
 Lastly, we used these models to study the nanoscale mechanical response of substrate and filler-confined thin films using indentation – a common experimental approach to quantify the interphase length-scale. We showed that indentation techniques can overestimate the interphase length-scale due to the stress field propagation arising from the indentation [7], an effect which can be exacerbated at elevated temperatures due to viscous flow at higher temperatures [8]. 
 
-<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/><div style="text-align: justify; text-justify: inter-word;"><em>Illustration of our nanoindentation study on the front cover of Soft Matter, taken from Song et al [8].</em></div>
+<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/><div style="text-align: center;"><em>Illustration of our nanoindentation study on the front cover of Soft Matter, taken from Song et al [8].</em></div>
 
 ## References
 
