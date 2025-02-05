@@ -36,4 +36,4 @@ Lastly, we used these models to study the nanoscale mechanical response of subst
 5. Xia, W., <b>Song, J.</b>, Hsu, D. D., & Keten, S. “Side-Group Size Effects on Interfaces and Glass Formation in Supported Polymer Thin Films” The Journal of Chemical Physics. 146(20), 203311 (2017)
 6. Hsu, D. D., Xia, W.,  <b>Song, J.</b>, & Keten, S. “Prediction of Local Glass Transition Temperature of Polystyrene and Poly(methyl methacrylate) Bilayer Thin Films”. MRS Communications. 7(4), 832-839 (2017)
 7. Xia, W.*, <b>Song, J.*</b>, Hsu, D. D., & Keten, S. “Understanding the Interfacial Mechanical Response of Nanoscale Polymer Thin Films via Nanoindentation”. Macromolecules 49(10), 3810-3817 (2016)
-8. <b>Song, J.*</b>,<pre> Kahraman, R.*, Collinson, D.*</pre>, Xia, W., Brinson, L. C., & Keten, S. “Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers”. Soft Matter. 15(3), 359-370 (2019)
+8. <b>Song, J.*</b>,Kahraman, R.&#42, Collinson, D.&#42, Xia, W., Brinson, L. C., & Keten, S. “Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers”. Soft Matter. 15(3), 359-370 (2019)
