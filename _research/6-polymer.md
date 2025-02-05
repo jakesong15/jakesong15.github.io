@@ -18,14 +18,14 @@ Nanoconfinement effects on chain mobility
 
 Next, using these models, we studied the dynamics of polymers under different confinement effects arising from free surfaces, polymeric substrates, and rigid substrates and fillers. We demonstrated that polymer architecture can play a significant role in the nanoconfinement effect, as polymers with bulkier side-chains undergo a greater increase in chain mobility under free-surface confinement [4], but a smaller decrease in chain mobility under substrate confinement [5]. We also demonstrated that a large interphase region can exist when both of these polymers form a soft interface with each other [6]. 
 
-<img src='/images/CG2.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/>Representative free-standing thin film configurations, taken from Hsu et al [4].
+<img src='/images/CG2.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <div style="text-align: justify; text-justify: inter-word;"><em>Representative free-standing thin film configurations, taken from Hsu et al [4].</em></div>
 
 Nanomechanical characterization
 ------
 
 Lastly, we used these models to study the nanoscale mechanical response of substrate and filler-confined thin films using indentation – a common experimental approach to quantify the interphase length-scale. We showed that indentation techniques can overestimate the interphase length-scale due to the stress field propagation arising from the indentation [7], an effect which can be exacerbated at elevated temperatures due to viscous flow at higher temperatures [8]. 
 
-<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/>Illustration of our nanoindentation study on the front cover of Soft Matter, taken from Song et al [8].
+<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/><div style="text-align: justify; text-justify: inter-word;"><em>Illustration of our nanoindentation study on the front cover of Soft Matter, taken from Song et al [8].</em></div>
 
 ## References
 
