@@ -1,6 +1,6 @@
 ---
 title: "Parametric probabilistic models for predicting creep remaining useful life"
-authors: "V. V. Maudonet, C. F. T. Matt and A. Cunha Jr"
+authors: "V. V. Maudonet, C. F. T. Matt and <b>A. Cunha Jr</b>"
 event: "26th International Congress of Mechanical Engineering (COBEM 2021)"
 year: "2021"
 doi: http://dx.doi.org/10.26678/abcm.cobem2021.cob2021-2312
