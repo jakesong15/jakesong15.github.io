@@ -11,8 +11,7 @@ Coarse-grained modeling
 
 Nanoconfinement effects can occur over tens of nanometers, which can be challenging to simulate using conventional atomistic simulation techniques. An approach to circumvent this problem is to utilize coarse-grained models that reduce the structural degrees-of-freedom, which allows tractable simulations of materials which are hundreds of nanometers in size. However, such coarse-graining methods will necessarily result in inaccurate dynamical properties relative to atomistic systems. To address this problem. [Wenjie Xia](https://faculty.sites.iastate.edu/wxia/) and I developed a coarse-graining algorithm for polymers in which the interaction potential of the coarse-grained model is “renormalized” to the atomistic model based on their glassy dynamics and cage mobility. We successfully developed models for the thermoplastic polystryrene [1], the rubbery polymer polybutadiene [2], and molecular glass forming liquid ortho-terphenyl [3]. 
       
-  <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> 
-  <div style="text-align: center;">Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al &#91;2&#93;.</div>
+  <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/> <em><div style="text-align: center;">Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al &#91;2&#93;.</div></em>
 
 
 Nanoconfinement effects on chain mobility
