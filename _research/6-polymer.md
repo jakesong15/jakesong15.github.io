@@ -11,14 +11,14 @@ Coarse-grained modeling
 
 Nanoconfinement effects can occur over tens of nanometers, which can be challenging to simulate using conventional atomistic simulation techniques. An approach to circumvent this problem is to utilize coarse-grained models that reduce the structural degrees-of-freedom, which allows tractable simulations of materials which are hundreds of nanometers in size. However, such coarse-graining methods will necessarily result in inaccurate dynamical properties relative to atomistic systems. To address this problem. [Wenjie Xia](https://faculty.sites.iastate.edu/wxia/) and I developed a coarse-graining algorithm for polymers in which the interaction potential of the coarse-grained model is “renormalized” to the atomistic model based on their glassy dynamics and cage mobility. We successfully developed models for the thermoplastic polystryrene [1], the rubbery polymer polybutadiene [2], and molecular glass forming liquid ortho-terphenyl [3]. 
       
-  <img src='/images/CG11.jpg' width="50%" style="display: block; margin: 0 auto;"><br/>Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al [2].
+  <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/>Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al [2].
 
 Nanoconfinement effects on chain mobility
 ------
 
 Next, using these models, we studied the dynamics of polymers under different confinement effects arising from free surfaces, polymeric substrates, and rigid substrates and fillers. We demonstrated that polymer architecture can play a significant role in the nanoconfinement effect, as polymers with bulkier side-chains undergo a greater increase in chain mobility under free-surface confinement [4], but a smaller decrease in chain mobility under substrate confinement [5]. We also demonstrated that a large interphase region can exist when both of these polymers form a soft interface with each other [6]. 
 
-<img src='/images/CG2.jpg' width="50%" style="display: block; margin: 0 auto;"><br/>Representative free-standing thin film configurations, taken from Hsu et al [4].
+<img src='/images/CG2.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/>Representative free-standing thin film configurations, taken from Hsu et al [4].
 
 Nanomechanical characterization
 ------
