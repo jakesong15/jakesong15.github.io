@@ -29,7 +29,7 @@ Lastly, we used these models to study the nanoscale mechanical response of subst
 
 ## References
 
-1. Xia, W.R.&#42;, <b>Song, J.R.&#42;</b>, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. “Energy Renormalization for Temperature Transferable Coarse-Graining of Polymer Dynamics”. Macromolecules. 50(21), 8787-8796 (2017)
+1. Xia, W.&#42;, <b>Song, J.R.&#42;</b>, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. “Energy Renormalization for Temperature Transferable Coarse-Graining of Polymer Dynamics”. Macromolecules. 50(21), 8787-8796 (2017)
 2. <b>Song, J.</b>, Hsu, D. D., Shull, K. R., Phelan Jr, F. R., Douglas, J. F., Xia, W., & Keten, S. “Coarse-Grained Modelling of Polymer Viscoelasticity via Energy Renormalization.” Macromolecules. 51(10), 3818-3827 (2018)
 3. Xia, W., <b>Song, J.</b>., Krishnamurthy, N., Phelan Jr, F. R., Keten, S., & Douglas, J. F.  “Energy Renormalization for Coarse-Graining the Dynamics of a Model Glass-Forming Liquid”. Journal of Physical Chemistry B. 122(6), 2040-2045 (2018)
 4. Hsu, D. D., Xia, W., <b>Song, J.</b>, & Keten, S. “Glass-Transition and Side-Chain Dynamics in Thin Films: Explaining Dissimilar Free Surface Effects for Polystyrene vs Poly(methyl methacrylate)”. ACS Macro Letters 5, 481-486 (2016)
