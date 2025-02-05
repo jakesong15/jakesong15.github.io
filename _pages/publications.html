@@ -21,6 +21,11 @@ author_profile: true
   
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <!-- Publication Details (Middle) -->
+          <td style="width: 10%; font-size: 30px; text-align: left; vertical-align: top; padding-right: 30px; border: none;">
+        {% if pub.image %}
+          <img src="{{ pub.image }}" alt="Thumbnail" style="height: 100px; width: auto; max-width: 175px; border-radius: 1px;">
+        {% endif %}
+      </td>
       <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
         <strong style="font-size: 18px; font-weight: bold; color: #3f51b5;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
@@ -64,11 +69,7 @@ author_profile: true
         </div>
       </td>
       <!-- Thumbnail (Right) -->
-      <td style="width: 10%; font-size: 30px; text-align: left; vertical-align: top; padding-right: 30px; border: none;">
-        {% if pub.image %}
-          <img src="{{ pub.image }}" alt="Thumbnail" style="height: 100px; width: auto; max-width: 175px; border-radius: 1px;">
-        {% endif %}
-      </td>
+
     </tr>
   </table>
 
