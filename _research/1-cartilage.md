@@ -1,5 +1,5 @@
 ---
-title: <div style="text-align: center;">"Cartilage mechanobiology"</div>
+title: "<div style="text-align: center;">Cartilage mechanobiology</div>"
 excerpt: "<img src='/images/500x300.png'><br/>I am studying how the mechanics of the extracellular matrix regulates chondrocyte fate in quiescence and under external mechanical stresses."
 collection: research
 ---
