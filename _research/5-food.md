@@ -1,6 +1,6 @@
 ---
 title: "Food as a soft material"
-excerpt: "<img src='/images/500x300.png'><br/>I studied the mechanics of dairy proteins and tissues, and designed plant-based food materials that mimic these properties."
+excerpt: "<img src='/images/toc_food.png'><br/>I studied the mechanics of dairy proteins and tissues, and designed plant-based food materials that mimic these properties."
 collection: research
 ---
 
