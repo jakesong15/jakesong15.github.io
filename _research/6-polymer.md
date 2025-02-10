@@ -1,6 +1,6 @@
 ---
 title: "Confined polymer physics"
-excerpt: "<img src='/images/500x300.png'><br/>I developed and used coarse-grained models for polymers to study their mechanics under nanoscale confinement."
+excerpt: "<img src='/images/toc_cg.png'><br/>I developed and used coarse-grained models for polymers to study their mechanics under nanoscale confinement."
 collection: research
 ---
 
