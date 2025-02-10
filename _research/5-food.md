@@ -25,5 +25,5 @@ At MIT, I studied the replicability of the texture of animal-sourced meats using
 References
 ------
 
-1. <b>Song, J.</b>. "Non-linear rheology of melted cheddar cheese." Journal of Food Engineering. 391, 112450 (2025)
-3. <b>Song, J.</b>., Deiss-Yehiely, E., Yesilata, S., McKinley, G. H. "Strain stiffening universality in composite hydrogels and soft biological tissues." Nature Physics. In press (2025)
+1. <b>Song, J.</b>. "Non-linear rheology of melted cheddar cheese." <em>Journal of Food Engineering</em>. 391, 112450 (2025)
+3. <b>Song, J.</b>., Deiss-Yehiely, E., Yesilata, S., McKinley, G. H. "Strain stiffening universality in composite hydrogels and soft biological tissues." <em>Nature Physics</em>. In press (2025)
