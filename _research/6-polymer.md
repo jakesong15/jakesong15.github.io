@@ -1,5 +1,5 @@
 ---
-title: <div align="center">div align="center"</div>
+title: <div align="center">Confined polymer physics</div>
 excerpt: "<img src='/images/toc_cg.png'><br/>I developed and used coarse-grained models for polymers to study their mechanics under nanoscale confinement."
 collection: research
 ---
