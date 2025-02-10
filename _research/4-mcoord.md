@@ -1,6 +1,6 @@
 ---
 title: "Bio-inspired soft materials"
-excerpt: "<img src='/images/500x300.png'><br/>I leveraged metal-coordination chemistry to design polymeric materials and composites with tunable structure, mechanics, and stimuli-responsivity."
+excerpt: "<img src='/images/toc_mcoord.png'><br/>I leveraged metal-coordination chemistry to design polymeric materials and composites with tunable structure, mechanics, and stimuli-responsivity."
 collection: research
 ---
 
