@@ -3,6 +3,7 @@ title: <div align="center">Food as a soft material</div>
 excerpt: "<img src='/images/toc_food2.png'><br/>I studied the mechanics of dairy proteins and tissues, and designed plant-based food materials that mimic these properties."
 collection: research
 ---
+
 Food is a complex soft matter which we interact with daily, and understanding their properties can unlock exciting new directions in fields such as food engineering and molecular gastronomy. I have been particularly interested in engineering the mechanical properties of animal-sourced foods using plant-based alternatives, by combining disciplinary insights from soft matter physics, rheology, and materials science. To this end, I worked as a R&D intern at a plant-based food start-up, Motif Foodworks, where I studied the mechanical properties of melted cheese, and studied the viability of zein, a plant-based protein found in corn, as a plant-based substitute to cheese. I also studied the reverse-engineerability of meat tissues using plant-based ingredients at MIT, which was supported by the Lemelson-Vest Award ($10,000) and the Sandbox Innovation Fund Award ($2,500).
 
 Plant-based cheese
