@@ -1,6 +1,6 @@
 ---
 title: "Non-linear tissue mechanics"
-excerpt: "<img src='/images/500x300.png'><br/>I developed rheometric techniques to analyze the non-linear elasticity and plasticity of soft tissues and composite hydrogels."
+excerpt: "<img src='/images/toc_tissue.png'><br/>I developed rheometric techniques to analyze the non-linear elasticity and plasticity of soft tissues and composite hydrogels."
 collection: research
 ---
 
