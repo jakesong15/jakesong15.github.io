@@ -10,7 +10,7 @@ In many modern electronics and structural materials, polymers are often confined
 Coarse-grained modeling
 ------
 
-Nanoconfinement effects can occur over tens of nanometers, which can be challenging to simulate using conventional atomistic simulation techniques. An approach to circumvent this problem is to utilize coarse-grained models that reduce the structural degrees-of-freedom, which allows tractable simulations of materials which are hundreds of nanometers in size. However, such coarse-graining methods will necessarily result in inaccurate dynamical properties relative to atomistic systems. To address this problem. [Wenjie Xia](https://faculty.sites.iastate.edu/wxia/) and I developed a coarse-graining algorithm for polymers in which the interaction potential of the coarse-grained model is “renormalized” to the atomistic model based on their glassy dynamics and cage mobility. We successfully developed models for the thermoplastic polystryrene [1], the rubbery polymer polybutadiene [2], and molecular glass forming liquid ortho-terphenyl [3]. 
+Nanoconfinement effects can occur over tens of nanometers, which is beyond the length-scale accessible using conventional atomistic simulation techniques. An approach to circumvent this problem is to utilize coarse-grained models that reduce the structural degrees-of-freedom, which allows tractable simulations of materials which are hundreds of nanometers in size. However, such coarse-graining methods will necessarily result in inaccurate dynamical properties relative to atomistic systems. To address this problem. [Wenjie Xia](https://faculty.sites.iastate.edu/wxia/) and I developed a coarse-graining algorithm for polymers in which the interaction potential of the coarse-grained model is “renormalized” to the atomistic model based on their glassy dynamics and cage mobility. We successfully developed models for the thermoplastic polystryrene [1], the rubbery polymer polybutadiene [2], and molecular glass forming liquid ortho-terphenyl [3]. 
       
   <img src='/images/CG11.jpeg' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Representative coarse-grained images of polybutadiene and polystyrene, taken from Song et al &#91;2&#93;.</em>
 
@@ -26,7 +26,7 @@ Nanomechanical characterization
 
 Lastly, we used these models to study the nanoscale mechanical response of substrate and filler-confined thin films using indentation – a common experimental approach to quantify the interphase length-scale. We showed that indentation techniques can overestimate the interphase length-scale due to the stress field propagation arising from the indentation [7], an effect which can be exacerbated at elevated temperatures due to viscous flow at higher temperatures [8]. 
 
-<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Illustration of our nanoindentation study on the front cover of Soft Matter, taken from Song et al [8].</em>
+<img src='/images/CG33.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Illustration of the nanoindentation study which was selected as the front cover of Soft Matter, taken from Song et al [8].</em>
 
 ## References
 
