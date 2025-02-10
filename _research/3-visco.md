@@ -1,6 +1,6 @@
 ---
 title: "Complex viscoelasticity"
-excerpt: "<img src='/images/500x300.png'><br/>I studied the microscopic origins of non-Maxwellian viscoelastic stress relaxations in complex soft matter systems."
+excerpt: "<img src='/images/toc_visco.png'><br/>I studied the microscopic origins of non-Maxwellian viscoelastic stress relaxations in complex soft matter systems."
 collection: research
 ---
 
