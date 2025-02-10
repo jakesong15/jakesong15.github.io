@@ -1,9 +1,9 @@
 ---
-title: <h1 align="center">"Centered Heading1"</h1>.
+title: <div align="center">div align="center"</div>
 excerpt: "<img src='/images/toc_cg.png'><br/>I developed and used coarse-grained models for polymers to study their mechanics under nanoscale confinement."
 collection: research
 ---
-
+ <h1 align="center">"Centered Heading1"</h1>.
 In many modern electronics and structural materials, polymers are often confined to nanoscopic dimensions, which change their mechanical properties relative to bulk conditions. These confinement effects can arise due to changes in chain mobility – whereas free surfaces (for instance in thin films) can accelerate chain mobility and soften the polymer matrix, substrates and fillers (for instance in nanocomposites) can decelerate chain mobility and stiffen the polymer matrix. In the [Keten group](https://keten-group.northwestern.edu/) at Northwestern, I used molecular dynamics simulations to study the extent and length-scale of such nanoconfinement effects in common industrial polymers.
 
 Coarse-grained modeling
