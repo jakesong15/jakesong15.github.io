@@ -12,10 +12,12 @@ Plant-based cheese
 ------
 
 The melting properties of cheese have been a difficult target to replicate using dairy-free ingredients, with many commercial products failing in this regard. At Motif, we studied the viability of zein aggregates as a dairy-free alternative that can mimic the meltability of cheddar cheese. As a R&D intern, I introduced the use of van Gurp-Palmen plots to fingerprint the thermo-rheological profile of cheese and zein-based formulations, and developed a phase diagram for zein-based food composites in aqueous media. I also extensively studied the non-linear rheology of melted cheddar cheese, and helped establish a benchmark for plant-based cheeses [1].
-[zein pic] [dispersion?] 
+
+<img src='/images/Food1.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">At Motif, I engineered zein-based food composites that exhibit cheese-like stretchability at high temperatures.</em>
 
 Plant-based meat
 ------
 
-At MIT, I studied the replicability of the texture of animal-sourced meats using plant-based ingredients. I discovered two main bottlenecks: 1) the non-linear mechanical properties of soft tissues (i.e. the “textural” portion that we feel in our mouth when we masticate on meat) remained largely unknown, and 2) existing plant-based alternatives also lacked nutritional fats and proteins found in animal-sourced meats. To address this problem, I studied the non-linear mechanics of soft tissues, and developed some guidelines on replicating these textures using composite hydrogels [2], on which you can find more details [here]. Using this platform, I have demonstrated the possibility of a plant-based food composite which is nutritionally rich in proteins and fat, and which can replicate the compression-resistance of soft tissues, shown below.
-[ tissue figure] [ replicating with oils etc].
+At MIT, I studied the replicability of the texture of animal-sourced meats using plant-based ingredients. I discovered two main bottlenecks: 1) the non-linear mechanical properties of soft tissues (i.e. the “textural” portion that we feel in our mouth when we masticate on meat) remained largely unknown, and 2) existing plant-based alternatives also lacked nutritional fats and proteins found in animal-sourced meats. To address this problem, I studied the non-linear mechanics of soft tissues, and developed some guidelines on replicating these textures using composite hydrogels [2], on which you can find more details [here]. Using this platform, I have demonstrated the possibility of a plant-based food composite which is nutritionally rich in proteins and fat, and which can replicate the compression-resistance of soft animal-sourced meats, shown below.
+
+<img src='/images/Food2.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Demo of the food gel platform I designed which is nutritionally versatile, and which stiffens under compression like meat tissue.</em>
