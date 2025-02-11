@@ -1,6 +1,6 @@
 ---
 title: "Valence can control the nonexponential viscoelastic relaxation of multivalent reversible gels"
-authors: "Le Roy, H.&#42;, <b>Song, J&#42;</b>, Lundberg, D., Zhukhovitskiy, A. V., Johnson, J. A., McKinley, G. H., Holten-Andersen, N., & Lenz, M"
+authors: "Le Roy, H.&#42;, <b><u>Song, J&#42;</u></b>, Lundberg, D., Zhukhovitskiy, A. V., Johnson, J. A., McKinley, G. H., Holten-Andersen, N., & Lenz, M"
 journal: "Science Advances"
 year: "2024"
 volume: "10"
