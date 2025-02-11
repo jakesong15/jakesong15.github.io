@@ -3,7 +3,7 @@ title: <div align="center">Bio-inspired soft materials</div>
 excerpt: "<img src='/images/toc_mcoord.png'><br/>I leveraged metal-coordination chemistry to design polymeric materials and composites with tunable structure, mechanics, and stimuli-responsivity."
 collection: research
 ---
-Metal-coordinate bonds are a key binding motif found in many biogenic materials that exhibit extraordinary mechanical properties, such as the hard jaws of the Glycera and Nereis, the tough byssal threads of the Mytilus, and the adhesive mucus of the Arion. These bonds are strong (near-covalent), reversible, and tunable, thus offering a wide palette for the bioinspired design of structural materials with advanced functionalities. Working in the Holten-Andersen group and the McKinley group at MIT, I leveraged metal-coordinate bonds to develop polymeric materials with tunable viscoelasticity, structure, and stimuli-responsivity. 
+Metal-coordinate bonds are a key binding motif found in many biogenic materials that exhibit extraordinary mechanical properties, such as the hard jaws of the Glycera and Nereis, the tough byssal threads of the Mytilus, and the adhesive mucus of the Arion. These bonds are strong (near-covalent), reversible, and tunable, thus offering a wide palette for the bioinspired design of structural materials with advanced functionalities. Working in the [Holten-Andersen group](https://holtengroup.com/) and the [McKinley group](https://nnf.mit.edu/) at MIT, I leveraged metal-coordinate bonds to develop polymeric materials with tunable viscoelasticity, structure, and stimuli-responsivity. 
 
 Kinetics of metal-coordinate bonds
 ------
