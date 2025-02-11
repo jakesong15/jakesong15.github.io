@@ -8,7 +8,7 @@ author_profile: true
 Teaching
 ------
 
-I have formal teaching experience at various capacities across my time at Northwestern and MIT, through which I was able to get hands-on experience in refining complex knowledge into simple learnable concepts, and in clearly communicating these concepts to students through lecture and assignments.
+I have formal teaching experience at various capacities across my time at Northwestern and MIT, through which I honed my ability to distill complex knowledge into simple learnable concepts, and to clearly communicate these concepts to students during lecture and through assignments.
 
 At Northwestern, I served as an assistant for the graduate mechanical engineering course MechE 418: Multi-scale Modeling and Simulation in Fluid Mechanics, where I designed one of three main homework assignments for the course. The purpose of this assignment was to guide the students through the procedure for coarse-graining the dynamical properties of polymers. As part of the assignment, I introduced students to molecular simulation apparatus such as LAMMPS and VMD, and guided them through the quantitative analysis of the statistical mechanics of polymers. You can find the problem set here.
 
