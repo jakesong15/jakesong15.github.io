@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1126/sciadv.adl5056"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/SciAdv.png"
+image: "/images/SciAdv2.png"
 layout: none
 date: 2024-05-01
 collection: publications
