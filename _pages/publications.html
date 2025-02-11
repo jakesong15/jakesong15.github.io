@@ -28,7 +28,7 @@ author_profile: true
         {% endif %}
       </td>
       <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
-        <b></b>{{ pub.title }}</b>
+        <span style="font-weight: bold; font-size: 150%;">{{ pub.title }}</span>
         {{ pub.authors }}
         {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
