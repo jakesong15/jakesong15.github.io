@@ -10,7 +10,7 @@ Kinetics of metal-coordinate bonds
 
 A rational understanding of the energetic landscape of the metal-coordinate bonds is essential for designing metal-coordinate materials with tunable mechanics. Using common histidine-metal coordinate bonds as a model motif, we showed that the width and ruggedness of the energy landscape of the coordination bonds play a critical role in their kinetics, and thus the resulting mechanical properties of materials with histidine-metal coordinate bonds. [1]. We also showed that these energy landscapes can be tuned by changing the coordination state via metal-ligand stoichiometry in histidine-containing materials [2].
 
-<img src='/images/Histamine.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary of the coordination-state-dependent binding hierarchy between transition metals and imidazole-based ligands, taken from Song et al [1];.</em>
+<img src='/images/Histamine.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary of the coordination-state-dependent binding hierarchy between transition metals and imidazole-based ligands, taken from Song et al [1].</em>
 
 Metal-coordinate particle gels
 ------
