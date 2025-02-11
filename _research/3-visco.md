@@ -29,7 +29,7 @@ References
 •	
 •	
 
-1. Le Roy, H.&#42;, <b>Song, J.&#42;</b>, Lundberg, D., Zhukhovitskiy, A. V., Johnson, J. A., McKinley, G. H., Holten-Andersen, N., & Lenz, M. <em>“Valency Can Control the Non-Exponential Viscoelastic Relaxation in Multivalent Reversible Gels”. <em>Science Advances</em>. 10(20), eadl5056 (2024). [&#91;link&#93](https://www.science.org/doi/10.1126/sciadv.adl5056);
+1. Le Roy, H.&#42;, <b>Song, J.&#42;</b>, Lundberg, D., Zhukhovitskiy, A. V., Johnson, J. A., McKinley, G. H., Holten-Andersen, N., & Lenz, M. <em>“Valency Can Control the Non-Exponential Viscoelastic Relaxation in Multivalent Reversible Gels”. <em>Science Advances</em>. 10(20), eadl5056 (2024). [&#91;link&#93;](https://www.science.org/doi/10.1126/sciadv.adl5056)
 2. Song, J., Zhang, Q., de Quesada, F., Rizvi, M. H., Ilavsky, J., Tracy, J. B., Narayanan, S., Del Gado, E., Leheny. R. L., Holten-Andersen, N., & McKinley, G. H. <em>“Microscopic Dynamics Underlying the Stress Relaxation of Arrested Soft Materials.” Proceedings of the National Academy of Sciences</em>. 119(30), e2201566119 (2022)
 3. Song, J., Holten-Andersen, N., & McKinley, G. H., “Non-Maxwellian Viscoelastic Stress Relaxations in Soft Matter”. <em>Soft Matter</em>. 19(41), 7885-7906 (2023). 
 
