@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/j.jfoodeng.2024.112450"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/cheese.png"
+image: "/images/Review.png"
 layout: none
 date: 2025-01-01
 collection: publications
