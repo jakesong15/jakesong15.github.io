@@ -10,19 +10,20 @@ Thermal relaxation of multi-valent systems
 ------
 In a collaborative study with Hugo Le Roy and Martin Lenz, we developed a minimal model to describe the relaxation dynamics of reversible gels with large cross-linkers. We showed that multi-valent interactions between a pair of cross-linkers can significantly increase dissociation times, and that even a simple Poisson distribution of such multi-valent interactions in the system can result in a broad distribution of stress relaxation times as observed in polymer gels cross-linked with particles or metal-organic cages [1].
 
-<img src='/images/SciAdv.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary of the coordination-state-dependent binding hierarchy between transition metals and imidazole-based ligands, taken from Song et al [1].</em>
+<img src='/images/SciAdv.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;"><em>Illustration of the multivalent relaxation model, in which multivalent "super-bonds" undergo dissociation via a Markovian process. A distribution of the size of the "super-bonds" results in a broad distribution of relaxation times. Taken from Le Roy et al [1].</em>
 
 Athermal avalanches under quasi-linear perturbations
 ------
 We studied the local dynamics of our particle gels using x-ray photon correlation spectroscopy, a synchrotron-based scattering technique, to understand the microscopic signatures of the broad distribution of stress relaxation times observed in arrested soft matter. Surprisingly, we found that the local dynamics of the gels were athermal in nature, characterized by superdiffusive dynamics which are driven by the buildup of internal stress during arrest. Furthermore, we found that driving the system with small external deformations – that which we would typically apply during a rheology experiment – resulted in intermittent avalanches with a broad non-Gaussian spectrum of relaxation modes. These findings suggest that the broad distribution of relaxation times in arrested gels – obtained typically through rheological experiments in the “linear” regime – may instead be signatures of a quasi-linear phenomenon characterized by perturbation-induced intermittent avalanches [2].
 
-<img src='/images/XPCS.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary of the coordination-state-dependent binding hierarchy between transition metals and imidazole-based ligands, taken from Song et al [1].</em>
+<img src='/images/XPCS.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;"><em>Demonstration of the broadened intermediate scattering function in dynamically-arrested gels under external loading due to the superposition of localized avalanche dynamics. Taken from Song et al [2].</em>
 
 Review on non-Maxwellian stress relaxation
 ------
 As part of my dissertation, I have been broadly interested in the topic of complex relaxation phenomena in soft matter, particularly in the non-Maxwellian (or non-exponential) viscoelastic stress relaxation observed ubiquitously across different classes of soft matter. I have contributed a tutorial review on this topic, where I have highlighted some of the physics that underlie a broad distribution of relaxation modes, and appropriate mathematical and rheological models to capture these processes [3].
 
-<img src='/images/Review.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary of the coordination-state-dependent binding hierarchy between transition metals and imidazole-based ligands, taken from Song et al [1].</em>
+<img src='/images/Review.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;"><em>Illustration of the ubiquity of non-Maxwellian viscoelasticity across a wide range of soft matter systems; each curve is overlaid with the prediction of the Maxwell model for illustrative purposes (red lines). 
+the origins of which we discuss in Song et al [3].</em>
 
 References
 ------
