@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Cartilage mechanobiology</div>
-excerpt: "<img src='/images/toc_postdoc3.png'>I am studying how the mechanics of the extracellular matrix regulates chondrocyte fate in quiescence and under external mechanical stresses."
+excerpt: "<img src='/images/toc_postdoc3.png'>I am studying how the mechanics of the extracellular matrix regulates chondrocyte behavior in quiescence and under external mechanical stresses."
 collection: research
 ---
 
