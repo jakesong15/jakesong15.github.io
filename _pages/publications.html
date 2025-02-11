@@ -7,6 +7,8 @@ entries_layout: list
 author_profile: true
 ---
 
+  {{ "<h2 style='margin-top: 30px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}{{ In Press }}{{ "</h2>" | safeHTML }}
+
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
 
