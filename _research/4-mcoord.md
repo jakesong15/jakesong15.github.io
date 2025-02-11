@@ -17,14 +17,14 @@ Metal-coordinate particle gels
 
 Leveraging the strong yet reversible coordination bonds between catechol and metal oxide surfaces, we designed a hydrogel platform in which solvent-stabilized metal oxide nanoparticles are cross-linked by catechol-functionalized polymers. In contrast to conventional particle gels which are constructed via arrested phase separation, these gels are constructed via tunable limited-valency interactions between solvent-stable metal oxide particles and polymer linkers. This paved way for the design of a unique “equilibrium” particle gel system which are phase-stable with tunable morphologies and percolation thresholds [3]. These gels also exhibit classical signatures of arrested dynamics, and was used in another study of mine where I studied the microscopic origins of such relaxation dynamics, on which you can find more details [here]. We also showed that a combination of metal oxide particles and metal ions give rise to dual-junction-functionality gels which can be both load-bearing and self-healing [4].
 
-<img src='/images/NPgel.png' width="65%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Systematic control of iron oxide particle self-assembly and percolation behavior with limited-valency metal-coordinate polymer linkers in metal-coordinate composite hydrogels, taken from Song et al [3].</em>
+<img src='/images/NPgel.png' width="60%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Systematic control of iron oxide particle self-assembly and percolation behavior with limited-valency metal-coordinate polymer linkers in metal-coordinate composite hydrogels, taken from Song et al [3].</em>
 
 Metal-coordinate mineralized gels
 ------
 
 Drawing inspiration from the fabrication process underlying strong and tough biogenic composite materials such as the abalone shell and chiton tooth – in which inorganic components are /mineralized/ in an organic scaffold – we designed metal-coordinate particle gels in which metal oxides were mineralized from a metal-ion-coordinated polymer hydrogel scaffold, rather than synthesized and added externally. We showed that a rapid mineralization process can yield particle gels with increased stiffness and magnetization at extremely low volume fractions [5]. We further showed that a longer nucleation and growth process can lead to hydrogels with a high concentration of metal oxides, thus resulting in hydrogels which are soft, viscoelastic, yet highly magnetic [6]. 
 
-<img src='/images/Mineralization.png' width="50%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Design blueprint for soft and viscoelastic hydrogels via mineralization in metal-coordinate gels, taken from Song et al [6].</em>
+<img src='/images/Mineralization.png' width="45%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Design blueprint for soft and viscoelastic hydrogels via mineralization in metal-coordinate gels, taken from Song et al [6].</em>
 
 References
 ------
