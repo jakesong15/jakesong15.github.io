@@ -32,9 +32,9 @@ author_profile: true
         <span style="font-size: 14px;">
             {% if pub.journal %}
             <em>{{ pub.journal }}</em>
-              {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
-              {% if pub.number %}, No. {{ pub.number }}{% endif %}
-              {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
+              {% if pub.volume %}, {{ pub.volume }}{% endif %}
+              {% if pub.number %}, {{ pub.number }}{% endif %}
+              {% if pub.pages %}, {{ pub.pages }}{% endif %}
               {% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
               <em>{{ pub.event }}</em>
