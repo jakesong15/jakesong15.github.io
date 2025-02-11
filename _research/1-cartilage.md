@@ -4,16 +4,4 @@ excerpt: "<img src='/images/toc_postdoc3.png'>I am studying how the mechanics of
 collection: research
 ---
 
-I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte behavior in quiescence and under external mechanical stresses. 
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
+The cartilage is a highly pressurized tissue, in which chondrocytes metabolically secrete highly charged proteoglycans that create swelling pressure in a dense and rigid collagen scaffold. The pressurization is further exacerbated by load-bearing duties which pressurize the interstitial fluids of the cartilage. As a postdoc in the Chaudhuri lab at Stanford, I am investigating how this pressurized environment influences cellular function in chondrocytes. To do this, I am studying chondrocyte behavior in 3-D in vitro models of the articular cartilage, consisting of chondrocytes embedded in engineered hydrogels of tunable viscoelasticity, which differentially gate metabolically-secreted proteins to create different pressurized environments for the chondrocytes. I am also studying how these cellular responses are amplified by external mechanical loads. These questions are expected to probe fundamental processes underlying the development and maturation of cartilage in mammalian species. 
