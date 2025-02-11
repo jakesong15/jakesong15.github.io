@@ -30,7 +30,7 @@ author_profile: true
         <strong style="font-size: 18px; font-weight: bold; ">{{ pub.title }}</strong><br>
         <span style="font-size: 14px;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px;">
-              {% if pub.journal %},<em>{{ pub.journal }}</em>{% if pub.volume %},{{ pub.volume }}{% endif %}{% if pub.number %},{{ pub.number }}{% endif %}{% if pub.pages %},{{ pub.pages }}{% endif %}{% if pub.year %},{{ pub.year }}{% endif %}
+              {% if pub.journal %},<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
               <em>{{ pub.event }}</em>
               {% if pub.year %},{{ pub.year }}{% endif %}
