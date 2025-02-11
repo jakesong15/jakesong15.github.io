@@ -1,6 +1,6 @@
 ---
 title: "Non-linear rheology of melted cheddar cheese"
-authors:  "<b>Song, J.</b>"
+authors:  "<b><u>Song, J.</u></b>"
 journal: "Journal of Food Engineering"
 year: "2025"
 volume: "391"
