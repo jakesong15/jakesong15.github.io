@@ -3,15 +3,10 @@ title: <div align="center">Non-linear tissue mechanics</div>
 excerpt: "<img src='/images/toc_tissue2.png'><br/>I developed rheometric techniques to analyze the non-linear elasticity and plasticity of soft tissues and composite hydrogels."
 collection: research
 ---
+The soft tissues of our body are structurally complex and exhibit unique mechanical properties that remain poorly understood, which limit our ability to design tissue mimetic soft materials for various biomedical applications. I have been particularly interested in this topic from the perspective of food engineering, especially in addressing the question of how we can replicate the texture of animal-sourced meat from plant-based ingredients. Inspired by seminal work in this area by the [Janmey lab](https://www.med.upenn.edu/physiol/facult/paul-janmey-ph-d) at Penn, I developed a rheological protocol to characterize the non-linear mechanics of soft tissues, and established some basic design guidelines to replicate tissue-like mechanical properties using composite hydrogel materials. 
 
-I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte
+In my study [1], I showed that soft tissues exhibit a strain-stiffening non-linear elastic response which arises due to the stretching of their biopolymer matrix, but that this response is dominated by plastic dissipation which also arises under non-linear deformations to ultimately produce a strain-softening response. I then showed that this characteristic response can be engineered in a tunable manner using particle-filled composite hydrogels, demonstrating that the linear elasticity, the non-linear elasticity, and plasticity of the composite hydrogel can be tuned by adjusting key composite design parameters such as particle concentration and particle-polymer interaction strengths. I am interested in building upon this platform to further understand the intricate mechanics of soft tissues, and design soft materials that truly mimic biological tissues for applications in biomedicine and foods.
 
-Heading 1
-======
+<img src='/images/Tissue2.png' width="60%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Universal master-curves for the differential shear storage modulus of soft tissues (top) and particle-filled composite hydrogels (bottom) under compression and shear strain. The shift factors for compression and shear are identical, i.e. \\(a_\lambda = a_\gamma)\\. Taken from Song et al [1].</em>
 
-Heading 2
-======
-
-Heading 3
-======
-
+1. <b>Song, J.</b>., Deiss-Yehiely, E., Yesilata, S., McKinley, G. H. "Strain stiffening universality in composite hydrogels and soft biological tissues." <em>Nature Physics</em>. In press (2025)
