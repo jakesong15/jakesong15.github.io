@@ -40,11 +40,13 @@ author_profile: true
               {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
               {% if pub.year %}, {{ pub.year }}{% endif %}
               {% endif %}
-            {% if pub.doi %} <br> {{ pub.doi }}{% endif %}
         </span><br>
         <div class="btn-links">
           {% if pub.pdf %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
+          {% endif %}
+          {% if pub.doi %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.doi }}" target="_blank" rel="noopener">doi</a>
           {% endif %}
           {% if pub.arxiv %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
