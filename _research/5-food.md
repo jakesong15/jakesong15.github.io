@@ -18,7 +18,7 @@ Plant-based meat
 
 At MIT, I studied the replicability of the texture of animal-sourced meats using plant-based ingredients. I discovered two main bottlenecks: 1) the non-linear mechanical properties of soft tissues (i.e. the “textural” portion that we feel in our mouth when we masticate on meat) remained largely unknown, and 2) existing plant-based alternatives also lacked nutritional fats and proteins found in animal-sourced meats. To address this problem, I studied the non-linear mechanics of soft tissues, and developed some guidelines on replicating these textures using composite hydrogels [2], on which you can find more details [here]. Using this platform, I have demonstrated the possibility of a plant-based food composite which is nutritionally rich in proteins and fat, and which can replicate the compression-resistance of soft animal-sourced meats, shown below.
 
-<img src='/images/Food2.png' width="70%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Demonstration of a plant-based platform for sushi I designed as part of the Sandbox program at MIT, which is nutritionally versatile and can stiffens under compression like native fish sashimi.</em>
+<img src='/images/Food2.png' width="70%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Demonstration of a plant-based food platform I designed as part of the Sandbox program at MIT, which is nutritionally versatile and can stiffens under compression like animal meat tissue.</em>
 
 References
 ------
