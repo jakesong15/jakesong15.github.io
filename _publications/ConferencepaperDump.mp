@@ -4,8 +4,8 @@ authors:  "<b>Song, J</b>"
 journal: "Journal of Food Engineering"
 year: "2025"
 volume: "391"
-number: 
-pages: "112450"
+number: "112450"
+pages: 
 doi: "https://doi.org/10.1016/j.jfoodeng.2024.112450"
 pdf: "https://jakesong15.github.io/files/publications/cheese.pdf"
 arxiv: ""
