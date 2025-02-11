@@ -1,6 +1,6 @@
 ---
 title: "Soft Viscoelastic Magnetic Hydrogels from the In Situ Mineralization of Iron Oxide in Metal-Coordinate Polymer Networks"
-authors: "<b>Song, J.</b>, Kim, S., Saouaf, O., Owens, C., McKinley, G. H., & Holten-Andersen, N."
+authors: "<b><u>Song, J.</u></b>, Kim, S., Saouaf, O., Owens, C., McKinley, G. H., & Holten-Andersen, N."
 journal: "ACS Applied Materials and Interfaces"
 year: "2023"
 volume: "15"
