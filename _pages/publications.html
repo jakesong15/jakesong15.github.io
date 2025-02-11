@@ -28,8 +28,9 @@ author_profile: true
         {% endif %}
       </td>
       <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
-        <span style="font-weight: bold; font-size: 150%;">{{ pub.title }}</span>
-        {{ pub.authors }}
+  <br><span style="font-weight: bold; font-size: 150%;">{{ pub.title }}</span></br>
+        <br><span style="font-weight: bold; font-size: 120%;">{{ pub.authors }}</span></br>
+    <span style="font-weight: bold; font-size: 120%;">
         {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
               <em>{{ pub.event }}</em>
@@ -39,7 +40,7 @@ author_profile: true
               {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
               {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
               {% if pub.year %}, {{ pub.year }}{% endif %}
-              {% endif %}
+              {% endif %}</span>
         <div class="btn-links">
           {% if pub.pdf %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
