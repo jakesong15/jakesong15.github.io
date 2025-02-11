@@ -4,7 +4,7 @@ excerpt: "<img src='/images/toc_postdoc3.png'>I am studying how the mechanics of
 collection: research
 ---
 
-I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte fate in quiescence and under external mechanical stresses. 
+I am currently studying how the mechanics of the extracellular matrix regulates chondrocyte behavior in quiescence and under external mechanical stresses. 
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
