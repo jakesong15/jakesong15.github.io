@@ -1,16 +1,16 @@
 ---
-title: "Parametric probabilistic models for predicting creep remaining useful life"
-authors: "V. V. Maudonet, C. F. T. Matt and <b>A. Cunha Jr</b>"
-event: "26th International Congress of Mechanical Engineering (COBEM 2021)"
-year: "2021"
-doi: http://dx.doi.org/10.26678/abcm.cobem2021.cob2021-2312
-pdf: 
+title: "Non-linear rheology of melted cheddar cheese"
+authors: "<b>Song, J</b>"
+event: 
+year: "2025"
+doi: https://doi.org/10.1016/j.jfoodeng.2024.112450
+pdf: https://jakesong15.github.io/files/publications/cheese.pdf
 arxiv: 
-hal: "https://hal.archives-ouvertes.fr/hal-03425927"
-image: "CG33.png"
+hal: 
+image: "cheese.png"
 layout: none
-date: 2021-12-01
+date: 2025-01-01
 collection: publications
-category: conferences
-permalink: /publications/ConferencePaper_2021_COBEM2021-3
+category: publications
+permalink: /publications/cheese
 ---
