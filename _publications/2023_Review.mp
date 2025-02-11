@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1039/D3SM00736G"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/Review.png"
+image: "/images/Review2.png"
 layout: none
 date: 2023-03-01
 collection: publications
