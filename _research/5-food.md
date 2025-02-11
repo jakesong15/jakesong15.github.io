@@ -11,7 +11,7 @@ Plant-based cheese
 
 The melting properties of cheese have been a difficult target to replicate using dairy-free ingredients, with many commercial products failing in this regard. At Motif, we studied the viability of zein aggregates as a dairy-free alternative that can mimic the meltability of cheddar cheese. As a R&D intern, I introduced the use of van Gurp-Palmen plots to fingerprint the thermo-rheological profile of cheese and zein-based formulations, and developed a phase diagram for zein-based food composites in aqueous media. I also extensively studied the non-linear rheology of melted cheddar cheese, and helped establish a benchmark for plant-based cheeses [1].
 
-<img src='/images/Food1.png' width="60%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">At Motif, I engineered zein-based food composites that exhibit cheese-like stretchability at high temperatures.</em>
+<img src='/images/Food1.png' width="60%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">At Motif, I developed structure-property relationships in zein-based food composites for replicating the stretchability of melted dairy cheese.</em>
 
 Plant-based meat
 ------
