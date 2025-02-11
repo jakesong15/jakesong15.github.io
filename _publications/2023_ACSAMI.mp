@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1021/acsami.3c08145"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/ACSAMI.png"
+image: "/images/ACSAMI.jpeg"
 layout: none
 date: 2023-11-01
 collection: publications
