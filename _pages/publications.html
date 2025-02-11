@@ -1,0 +1,74 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+collection: publications
+entries_layout: list
+author_profile: true
+---
+
+---
+
+{% assign SortedPublications = site.publications | sort: "year" | reverse %}
+{% assign CurrentYear = 0 %}
+
+{% for pub in SortedPublications %}
+  {% assign PubYear = pub.year | strip | plus: 0 %}
+  {% if PubYear > 0 and PubYear != CurrentYear %}
+  {{ "<h2 style='margin-top: 30px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
+   {% assign CurrentYear = PubYear %}
+  {% endif %}
+  
+  <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
+      <!-- Publication Details (Middle) -->
+          <td style="width: 120px; height: 100px; text-align: left; vertical-align: middle; overflow: hidden; border: none;"> 
+          <!-- <td style="width: 10%; font-size: 30px; text-align: left; vertical-align: top; padding-right: 30px; border: none;"> -->
+        {% if pub.image %}
+          <img src="{{ pub.image }}" alt="Thumbnail" style="height: auto; width: auto;">
+        {% endif %}
+      </td>
+      <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
+        <b></b>{{ pub.title }}</b>
+        {{ pub.authors }}
+        {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
+            {% elsif pub.event %}
+              <em>{{ pub.event }}</em>
+              {% if pub.year %},{{ pub.year }}{% endif %}
+            {% elsif pub.booktitle %}
+              <em>{{ pub.booktitle }}</em>
+              {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
+              {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
+              {% if pub.year %}, {{ pub.year }}{% endif %}
+              {% endif %}
+        <div class="btn-links">
+          {% if pub.pdf %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
+          {% endif %}
+          {% if pub.doi %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.doi }}" target="_blank" rel="noopener">doi</a>
+          {% endif %}
+          {% if pub.arxiv %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
+          {% endif %}
+          {% if pub.engrxiv %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">engrXiv</a>
+          {% endif %}
+          {% if pub.medrxiv %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">medRxiv</a>
+          {% endif %}
+          {% if pub.hal %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
+          {% endif %}
+          {% if pub.news %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.news }}" target="_blank" rel="noopener">News</a>
+          {% endif %}
+        </div>
+      </td>
+      <!-- Thumbnail (Right) -->
+
+    </tr>
+  </table>
+
+{% endfor %}
+
+---
