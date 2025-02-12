@@ -1,6 +1,6 @@
 ---
 title: "Energy Renormalization for Coarse-Graining the Dynamics of a Model Glass-Forming Liquid"
-authors: "Xia, W., <b><u>Song, J.</u></b>, Krishnamurthy, N., Phelan Jr, F. R., Keten, S., & Douglas, J. F." 
+authors: "Xia, W., <b>Song, J.</b>, Krishnamurthy, N., Phelan Jr, F. R., Keten, S., & Douglas, J. F." 
 journal: "The Journal of Physical Chemistry B"
 year: "2018"
 volume: "122"
