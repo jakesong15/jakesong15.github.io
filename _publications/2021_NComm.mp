@@ -1,5 +1,4 @@
 ---
-11. “I.” . 12(1), 1-10 (2021)
 title: "In-Situ Mechanical Reinforcement of Polymer Hydrogels via Metal-Coordination Crosslink Mineralization"
 authors: "Kim, S., Registsky, A. U., <b>Song, J.</b>, Ilavsky, J., McKinley, G. H., & Holten-Andersen, N."
 journal: "Nature Communications"
