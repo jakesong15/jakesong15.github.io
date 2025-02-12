@@ -1,6 +1,6 @@
 ---
 title: "Side-Group Size Effects on Interfaces and Glass Formation in Supported Polymer Thin Films"
-authors: "Xia, W., Song, J., Hsu, D. D., & Keten, S." 
+authors: "Xia, W., <b>Song, J.</b>, Hsu, D. D., & Keten, S." 
 journal: "The Journal of Chemical Physics"
 year: "2017"
 volume: "146"
