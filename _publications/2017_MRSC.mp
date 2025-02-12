@@ -1,5 +1,5 @@
 ---
-title: “Dynamics of Interacting Interfaces in Polymer Bilayer Thin Films”
+title: "Dynamics of Interacting Interfaces in Polymer Bilayer Thin Films"
 authors: "Hsu, D. D., Xia, W., Song, J., & Keten, S." 
 journal: "MRS Communications"
 year: "2017"
