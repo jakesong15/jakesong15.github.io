@@ -1,6 +1,6 @@
 ---
 title: "Programmable Anisotropy and Percolation in Supramolecular Patchy Particle Gels"
-authors: "Song, J., Rizvi, M. H., Lynch, B. B., Ilavsky, J., Mankus, D., Tracy, J, B., McKinley, G. H., & Holten-Andersen, N."
+authors: "<b>Song, J.</b>, Rizvi, M. H., Lynch, B. B., Ilavsky, J., Mankus, D., Tracy, J, B., McKinley, G. H., & Holten-Andersen, N."
 journal: "ACS Nano"
 year: "2020"
 volume: "14"
