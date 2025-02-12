@@ -1,6 +1,6 @@
 ---
 title: "Coordination Stoichiometry Effects on the Binding Hierarchy of Histamine and Imidazole–M2+ Complexes"
-authors: "<b>Song, J.&#42;</b>, Khare, E.&#42;, Rao, L., Holten-Andersen, N."
+authors: "<b>Song, J.&#42;</b>, Khare, E.&#42;, Rao, L., & Holten-Andersen, N."
 journal: "Macromolecular Rapid Communications"
 year: "2023"
 volume: "44"
