@@ -1,5 +1,5 @@
 ---
-title: “Designing Multi-Layer Graphene-Based Assemblies for Enhanced Toughness in Nacre-Inspired Nanocomposites”
+title: "Designing Multi-Layer Graphene-Based Assemblies for Enhanced Toughness in Nacre-Inspired Nanocomposites"
 authors: "Xia, W., <b>Song, J.</b>, Meng, Z., & Keten, S." 
 journal: "Molecular Systems Design & Engineering"
 year: "2016"
