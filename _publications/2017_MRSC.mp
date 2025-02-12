@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1557/mrc.2017.113"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/MRSC.jpg"
+image: "/images/MRSC.png"
 layout: none
 date: 2017-05-01
 collection: publications
