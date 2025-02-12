@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Teaching and Service"
 permalink: /teaching/
 author_profile: true
