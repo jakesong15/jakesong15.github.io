@@ -1,6 +1,6 @@
 ---
 title: “Understanding the Interfacial Mechanical Response of Nanoscale Polymer Thin Films via Nanoindentation”
-authors: "Xia, W.&#42, <b>Song, J.&#42</b>, Hsu, D. D., & Keten, S." 
+authors: "Xia, W.&#42;, <b>Song, J.&#42;</b>, Hsu, D. D., & Keten, S." 
 journal: "Macromolecules"
 year: "2016"
 volume: "49"
