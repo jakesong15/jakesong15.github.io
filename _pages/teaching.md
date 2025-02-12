@@ -2,8 +2,6 @@
 layout: single
 title: "Teaching and Service"
 permalink: /teaching/
-collection: teaching
-entries_layout: list
 author_profile: true
 ---
 
