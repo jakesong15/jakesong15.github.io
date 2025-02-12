@@ -1,6 +1,6 @@
 ---
 title: "Dynamics of Dual Metal-Coordinate Networks with Ion and Nanoparticle Cross-Link Junctions"
-authors: "Song, J.&#42;, Li, Q.&#42;, Chen, P., Keshavarz, B., Chapman, B., Tracy, J. B., McKinley, G. H., & Holten-Andersen, N."
+authors: "<b>Song, J.&#42;</b>, Li, Q.&#42;, Chen, P., Keshavarz, B., Chapman, B., Tracy, J. B., McKinley, G. H., & Holten-Andersen, N."
 journal: "Journal of Rheology"
 year: "2022"
 volume: "66"
