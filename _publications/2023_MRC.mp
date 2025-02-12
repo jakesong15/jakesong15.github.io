@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1002/marc.202300077"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/MRC.png"
+image: "/images/mcoord.png"
 layout: none
 date: 2023-02-01
 collection: publications
