@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Teaching and Service"
 permalink: /teaching/
 collection: teaching
