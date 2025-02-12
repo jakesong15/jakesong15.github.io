@@ -4,7 +4,6 @@ title: "Teaching and Service"
 permalink: /teaching/
 author_profile: true
 ---
-
 Teaching
 ------
 
