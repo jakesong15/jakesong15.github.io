@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1073/pnas.2213160120"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/PNASKhare.png"
+image: "/images/KharePNAS.png"
 layout: none
 date: 2023-01-01
 collection: publications
