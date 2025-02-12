@@ -1,5 +1,5 @@
 ---
-title: "Strain stiffening universality in composite hydrogels and soft biological tissues"
+title: "Strain Stiffening Universality in Composite Hydrogels and Soft Biological Tissues"
 authors: "<b>Song, J.</b>, Deiss-Yehiely, E., Yesilata, S., & McKinley, G. H."
 journal: "Nature Physics"
 year: "2025"
