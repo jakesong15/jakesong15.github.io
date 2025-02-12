@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1021/acs.macromol.6b00121"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/MSDE.jpeg"
+image: "/images/MSDE.jpg"
 layout: none
 date: 2016-10-01
 collection: publications
