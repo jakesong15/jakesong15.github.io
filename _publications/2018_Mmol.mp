@@ -1,5 +1,5 @@
 ---
-title: “Coarse-Grained Modelling of Polymer Viscoelasticity via Energy Renormalization”
+title: "Coarse-Grained Modelling of Polymer Viscoelasticity via Energy Renormalization"
 authors: "Song, J., Hsu, D. D., Shull, K. R., Phelan Jr, F. R., Douglas, J. F., Xia, W., & Keten, S." 
 journal: "Macromolecules"
 year: "2018"
@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1021/acs.macromol.7b02560"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/CG1.png"
+image: "/images/CG11.jpeg"
 layout: none
 date: 2018-12-01
 collection: publications
