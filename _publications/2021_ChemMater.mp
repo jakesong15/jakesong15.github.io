@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1021/acs.chemmater.1c01585"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/ChemMater.png"
+image: "/images/ChemMater.jpeg"
 layout: none
 date: 2021-08-01
 collection: publications
