@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1063/1.4976702"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/JCP.jpeg"
+image: "/images/JCP.png"
 layout: none
 date: 2017-01-01
 collection: publications
