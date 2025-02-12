@@ -20,7 +20,7 @@ We studied the local dynamics of our particle gels using x-ray photon correlatio
 
 Origins of non-Maxwellian stress relaxation
 ------
-As part of my dissertation, I have extensively studied the physics underlying the broad distribution of relaxation times in soft matter, which is often manifested through a complex and non-Maxwellian viscoelastic response. I have contributed a tutorial review on this topic, where I have highlighted a divers array of physics that can underlie a broad distribution of relaxation modes, and appropriate mathematical and rheological models to capture these processes [3].
+As part of my dissertation, I have extensively studied the physics underlying the broad distribution of relaxation times in soft matter, which is often manifested through a complex and non-Maxwellian viscoelastic response. I have contributed a tutorial review on this topic, where I have highlighted a diverse array of physics that can underlie a broad distribution of relaxation modes, and appropriate mathematical and rheological models to capture these processes [3].
 
 <img src='/images/Review.png' width="80%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Illustration of the ubiquity of non-Maxwellian viscoelasticity across a wide range of soft matter systems; each curve is overlaid with the prediction of the Maxwell model for illustrative purposes (red lines). Taken from Song et al [3].</em>
 
