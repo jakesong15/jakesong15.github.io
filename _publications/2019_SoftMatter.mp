@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1039/C8SM01539B"
 pdf: 
 arxiv: 
 hal: 
-image: "/images/CG3.png"
+image: "/images/CG33.png"
 layout: none
 date: 2019-01-01
 collection: publications
