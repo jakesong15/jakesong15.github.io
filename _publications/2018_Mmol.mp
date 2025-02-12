@@ -1,6 +1,6 @@
 ---
 title: “Coarse-Grained Modelling of Polymer Viscoelasticity via Energy Renormalization”
-authors: "Song, J., Hsu, D. D., Shull, K. R., Phelan Jr, F. R., Douglas, J. F., Xia, W., & Keten, S. " 
+authors: "Song, J., Hsu, D. D., Shull, K. R., Phelan Jr, F. R., Douglas, J. F., Xia, W., & Keten, S." 
 journal: "Macromolecules"
 year: "2018"
 volume: "51"
