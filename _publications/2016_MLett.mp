@@ -1,6 +1,6 @@
 ---
 title: "Glass-Transition and Side-Chain Dynamics in Thin Films: Explaining Dissimilar Free Surface Effects for Polystyrene vs Poly(methyl methacrylate)"
-authors: "Hsu, D. D., Xia, W., Song, J., & Keten, S." 
+authors: "Hsu, D. D., Xia, W., <b>Song, J.</b>, & Keten, S." 
 journal: "ACS Macro Letters"
 year: "2016"
 volume: "5"
