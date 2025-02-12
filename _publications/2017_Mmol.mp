@@ -1,11 +1,11 @@
 ---
 title: “Energy-Renormalization for Achieving Temperature Transferable Coarse-Graining of Polymer Dynamics”
-authors: "Xia, W.*, <b>Song, J.*</b>, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. " 
+authors: "Xia, W.&#42, <b>Song, J.&#42</b>, Jeong, C., Hsu, D. D., Phelan, F. R., Douglas, J. F., & Keten, S. " 
 journal: "Macromolecules"
 year: "2017"
-volume: "7"
-number: "4"
-pages: "832-839"
+volume: "50"
+number: "21"
+pages: "8787-8796"
 doi: "https://doi.org/10.1021/acs.macromol.7b01717"
 pdf: 
 arxiv: 
