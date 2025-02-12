@@ -1,5 +1,5 @@
 ---
-title: “Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers”
+title: "Temperature Effects on the Nanoindentation Characterization of Stiffness Gradients in Confined Polymers:"
 authors: "<b>Song, J.&#42;</b>, Kahraman, R.&#42;, Collinson, D.&#42;, Xia, W., Brinson, L. C., & Keten, S." 
 journal: "Soft Matter"
 year: "2019"
