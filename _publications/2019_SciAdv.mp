@@ -1,5 +1,5 @@
 ---
-title: “Anti-Fatigue-Fracture Hydrogels”
+title: "Anti-Fatigue-Fracture Hydrogels"
 authors: "Lin, X., Liu, X., Liu, J., Yuk, H., Loh, H., Parada, G. A., Settens, C., <b>Song, J.</b>, Masic, A., McKinley, G. H., & Zhao, X." 
 journal: "Science Advances"
 year: "2019"
