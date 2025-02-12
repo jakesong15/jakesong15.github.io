@@ -4,7 +4,9 @@ title: "Teaching and Service"
 permalink: /teaching/
 author_profile: true
 ---
-### Teaching
+
+Teaching
+------
 
 I have formal teaching experience at various capacities across my time at Northwestern and MIT, through which I learned how to distill complex knowledge into simple learnable concepts, and to clearly communicate these concepts to students.
 
