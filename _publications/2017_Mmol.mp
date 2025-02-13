@@ -7,7 +7,7 @@ volume: "50"
 number: "21"
 pages: "8787-8796"
 doi: "https://doi.org/10.1021/acs.macromol.7b01717"
-pdf: 
+pdf: /files/publications/2017_Mmol.pdf
 arxiv: 
 hal: 
 image: "/images/CG2017.jpeg"
