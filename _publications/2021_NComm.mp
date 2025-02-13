@@ -7,7 +7,7 @@ volume: "12"
 number: "1"
 pages: "1-10"
 doi: "https://doi.org/10.1038/s41467-021-20953-7"
-pdf: 
+pdf: /files/publications/2021_NComm.pdf
 arxiv: 
 hal: 
 image: "/images/NComm.png"
