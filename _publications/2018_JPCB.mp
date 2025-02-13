@@ -7,7 +7,7 @@ volume: "122"
 number: "6"
 pages: "2040-2045"
 doi: "https://doi.org/10.1021/acs.jpcb.8b00321"
-pdf: 
+pdf: /files/publications/2018_JPCB.pdf
 arxiv: 
 hal: 
 image: "/images/OTP.jpeg"
