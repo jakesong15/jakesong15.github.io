@@ -7,7 +7,7 @@ volume: "5"
 number: "4"
 pages: "481-486"
 doi: "https://doi.org/10.1021/acsmacrolett.6b00037"
-pdf: 
+pdf: /files/publications/2016_MLett.pdf
 arxiv: 
 hal: 
 image: "/images/CG2.jpeg"
