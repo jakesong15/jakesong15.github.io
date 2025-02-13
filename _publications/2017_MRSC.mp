@@ -7,7 +7,7 @@ volume: "7"
 number: "4"
 pages: "832-839"
 doi: "https://doi.org/10.1557/mrc.2017.113"
-pdf: 
+pdf: /files/publications/2017_MRSC.pdf
 arxiv: 
 hal: 
 image: "/images/MRSC.png"
