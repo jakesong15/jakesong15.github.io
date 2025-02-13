@@ -7,7 +7,7 @@ volume: "10"
 number: "20"
 pages: "eadl5056"
 doi: "https://doi.org/10.1126/sciadv.adl5056"
-pdf: 
+pdf: /files/publications/2024_SciAdv.pdf
 arxiv: 
 hal: 
 image: "/images/SciAdv2.png"
