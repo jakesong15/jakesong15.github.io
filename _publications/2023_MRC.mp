@@ -7,7 +7,7 @@ volume: "44"
 number: "17"
 pages: "2300077"
 doi: "https://doi.org/10.1002/marc.202300077"
-pdf: 
+pdf: /files/publications/2023_MRC.pdf
 arxiv: 
 hal: 
 image: "/images/Histamine.png"
