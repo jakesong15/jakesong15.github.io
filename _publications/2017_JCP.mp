@@ -7,7 +7,7 @@ volume: "146"
 number: "20"
 pages: "203311"
 doi: "https://doi.org/10.1063/1.4976702"
-pdf: 
+pdf: /files/publications/2017_JCP.pdf
 arxiv: 
 hal: 
 image: "/images/JCP.png"
