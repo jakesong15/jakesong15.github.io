@@ -7,7 +7,7 @@ volume: "15"
 number: "3"
 pages: "359-370"
 doi: "https://doi.org/10.1039/C8SM01539B"
-pdf: 
+pdf: /files/publications/2019_SoftMatter.pdf
 arxiv: 
 hal: 
 image: "/images/CG33.png"
