@@ -7,7 +7,7 @@ volume: "1"
 number: "1"
 pages: "40-47"
 doi: "https://doi.org/10.1021/acs.macromol.6b00121"
-pdf: 
+pdf: /files/publications/2016_MSDE.pdf
 arxiv: 
 hal: 
 image: "/images/MSDE.jpg"
