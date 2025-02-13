@@ -7,7 +7,7 @@ volume: "51"
 number: "10"
 pages: "3818-3827"
 doi: "https://doi.org/10.1021/acs.macromol.7b02560"
-pdf: 
+pdf: /files/publications/2018_Mmol.pdf
 arxiv: 
 hal: 
 image: "/images/CG11.jpeg"
