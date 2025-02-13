@@ -7,7 +7,7 @@ volume: "5"
 number: "1"
 pages: "eaau8528"
 doi: "https://doi.org/10.1126/sciadv.aau8528"
-pdf: 
+pdf: /files/publications/2019_SciAdv.pdf
 arxiv: 
 hal: 
 image: "/images/SciAdvXZ2.jpeg"
