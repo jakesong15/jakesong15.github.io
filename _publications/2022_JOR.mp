@@ -7,7 +7,7 @@ volume: "66"
 number: "6"
 pages: "1333-1345"
 doi: "https://doi.org/10.1122/8.0000410"
-pdf: 
+pdf: /files/publications/2022_JOR.pdf
 arxiv: 
 hal: 
 image: "/images/JOR.png"
