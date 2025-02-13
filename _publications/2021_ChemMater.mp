@@ -7,7 +7,7 @@ volume: "33"
 number: "14"
 pages: "5748-5756"
 doi: "https://doi.org/10.1021/acs.chemmater.1c01585"
-pdf: 
+pdf: /files/publications/2021_ChemMater.pdf
 arxiv: 
 hal: 
 image: "/images/ChemMater.jpeg"
