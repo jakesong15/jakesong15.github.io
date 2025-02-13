@@ -7,7 +7,7 @@ volume: "15"
 number: "45"
 pages: "52874-52882"
 doi: "https://doi.org/10.1021/acsami.3c08145"
-pdf: 
+pdf: /files/publications/2023_ACSAMI.pdf
 arxiv: 
 hal: 
 image: "/images/ACSAMI.jpeg"
