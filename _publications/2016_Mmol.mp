@@ -7,7 +7,7 @@ volume: "49"
 number: "10"
 pages: "3810-3817"
 doi: "https://doi.org/10.1021/acs.macromol.6b00121"
-pdf: 
+pdf: /files/publications/2016_Mmol.pdf
 arxiv: 
 hal: 
 image: "/images/Indentation.jpeg"
