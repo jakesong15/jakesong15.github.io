@@ -7,7 +7,7 @@ volume: "14"
 number: "12"
 pages: "17018-17027"
 doi: "https://doi.org/10.1021/acsnano.0c06389"
-pdf: 
+pdf: /files/publications/2020_ACSNano.pdf
 arxiv: 
 hal: 
 image: "/images/NPgel.png"
