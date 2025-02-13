@@ -7,7 +7,7 @@ volume: "120"
 number: "4"
 pages: "e2213160120"
 doi: "https://doi.org/10.1073/pnas.2213160120"
-pdf: 
+pdf: /files/publications/2023_PNASKhare.pdf
 arxiv: 
 hal: 
 image: "/images/KharePNAS.png"
