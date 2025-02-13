@@ -7,7 +7,7 @@ volume: "119"
 number: "30"
 pages: "e2201566119"
 doi: "https://doi.org/10.1073/pnas.2201566119"
-pdf: 
+pdf: /files/publications/2022_PNAS.pdf
 arxiv: 
 hal: 
 image: "/images/XPCS.png"
