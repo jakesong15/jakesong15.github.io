@@ -1,4 +1,15 @@
 ---
+layout: single
+title: "Publications"
+permalink: /publications/
+collection: publications
+entries_layout: list
+author_profile: true
+---
+
+<!--  {{ "<h2 style='margin-top: 30px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}In Press{{ "</h2>" | safeHTML }} mix(#fff, $gray, 30%) -->
+
+
 
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
@@ -6,7 +17,7 @@
 {% for pub in SortedPublications %}
   {% assign PubYear = pub.year | strip | plus: 0 %}
   {% if PubYear > 0 and PubYear != CurrentYear %}
-  {{ "<h2 style='margin-top: 30px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
+  {{ "<h2 style='margin-top: 20px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
    {% assign CurrentYear = PubYear %}
   {% endif %}
   
@@ -19,26 +30,25 @@
         {% endif %}
       </td>
       <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
-        <strong style="font-size: 18px; font-weight: bold; ">{{ pub.title }}</strong><br>
-        <span style="font-size: 14px;">{{ pub.authors }}</span><br>
-        <span style="font-size: 14px;">
-              {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
+  <p style="margin-bottom: 3px;"><span style="font-weight: bold; font-size: 140%;">{{ pub.title }}</span></p>
+<span style="font-size: 120%;">{{ pub.authors }}</span>
+    <br><span style="font-size: 120%;">
+        {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
               <em>{{ pub.event }}</em>
               {% if pub.year %},{{ pub.year }}{% endif %}
             {% elsif pub.booktitle %}
-              <em>{{ pub.booktitle }}</em> <br>
+              <em>{{ pub.booktitle }}</em>
               {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
               {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
               {% if pub.year %}, {{ pub.year }}{% endif %}
-              {% endif %}
-        </span><br>
+              {% endif %}</span></br>
         <div class="btn-links">
-          {% if pub.pdf %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
-          {% endif %}
           {% if pub.doi %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.doi }}" target="_blank" rel="noopener">doi</a>
+          {% endif %}
+          {% if pub.pdf %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
           {% endif %}
           {% if pub.arxiv %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
@@ -63,5 +73,3 @@
   </table>
 
 {% endfor %}
-
----
