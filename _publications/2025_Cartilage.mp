@@ -1,7 +1,7 @@
 ---
 title: "Cell-Secreted Extracellular Matrix Mediates Chondrocyte Mechanosensation of Hydrogel Scaffold Viscoelasticity"
 authors: "<b>Song, J.</b>, Jones, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O."
-journal: 
+journal: "In Preparation"
 year: "In Preparation"
 volume: 
 number: 
