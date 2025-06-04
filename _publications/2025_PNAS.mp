@@ -3,9 +3,9 @@ title: "Mussel-Inspired Cross-Linking Mechanisms Enhance Gelation and Adhesion o
 authors: "Degen, G. D., Stevens, C. A., Cárcamo-Oyarce, G., <b>Song, J.</b>, Bej, R., Tang, P., Haag, R., Ribbeck, K. R. & McKinley, G. H."
 journal: "Proceedings of the National Academy of Sciences"
 year: "2025"
-volume: In Press
-number: 
-pages: 
+volume: "122"
+number: "8"
+pages: e2415927122"
 doi:
 pdf: 
 arxiv: 
