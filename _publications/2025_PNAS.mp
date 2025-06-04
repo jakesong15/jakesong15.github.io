@@ -6,7 +6,7 @@ year: "2025"
 volume: "122"
 number: "8"
 pages: e2415927122"
-doi:
+doi: "https://doi.org/10.1073/pnas.2415927122"
 pdf: 
 arxiv: 
 hal: 
