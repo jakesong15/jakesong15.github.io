@@ -10,7 +10,7 @@ doi:
 pdf: 
 arxiv: 
 hal: 
-image: "/images/PostdocSchematic.png"
+image: "/images/toc_postdoc3.png"
 layout: none
 date: 2025-01-31
 collection: publications
