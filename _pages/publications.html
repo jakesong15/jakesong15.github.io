@@ -36,7 +36,17 @@ author_profile: true
         {% if pub.journal %}<em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.number %}, {{ pub.number }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.event %}
               <em>{{ pub.event }}</em>
-              {% if pub.year %},{{ pub.year }}{% endif %}
+              {% if pub.year %}
+                {% assign year_string = pub.year | strip %}
+                {% if year_string != "" %}
+                  {% assign year_converted_to_num_to_string = year_string | plus: 0 | to_s %}
+                  {% if year_string == year_converted_to_num_to_string %}
+                    , {{ year_string }}
+                  {% else %}
+                    , <em>{{ year_string }}</em>
+                  {% endif %}
+                {% endif %}
+              {% endif %}
             {% elsif pub.booktitle %}
               <em>{{ pub.booktitle }}</em>
               {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
