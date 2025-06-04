@@ -9,7 +9,7 @@ author_profile: true
 
 <!--  {{ "<h2 style='margin-top: 30px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}In Press{{ "</h2>" | safeHTML }} mix(#fff, $gray, 30%) -->
 
-{{ "<h2 style='margin-top: 20px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}In Preparation{{ "</h2>" | safeHTML }} 
+
 
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
@@ -19,6 +19,8 @@ author_profile: true
   {% if PubYear > 0 and PubYear != CurrentYear %}
   {{ "<h2 style='margin-top: 20px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
    {% assign CurrentYear = PubYear %}
+  {% else %}
+    {{ "<h2 style='margin-top: 20px; border-bottom: 1px solid #9e9e9e; padding-bottom: 5px;'>" | safeHTML }}In Preparation{{ "</h2>" | safeHTML }} 
   {% endif %}
   
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
