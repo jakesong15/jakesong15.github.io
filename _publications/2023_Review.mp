@@ -1,6 +1,6 @@
 ---
 title: "Non-Maxwellian Viscoelastic Stress Relaxations in Soft Matter"
-authors: "<b>Song, J&#42;</b>, Holten-Andersen, N.,  McKinley, G. H."
+authors: "<b>Song, J</b>, Holten-Andersen, N.,  McKinley, G. H."
 journal: "Soft Matter"
 year: "2023"
 volume: "19"
