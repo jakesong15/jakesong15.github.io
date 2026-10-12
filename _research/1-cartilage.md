@@ -10,5 +10,5 @@ In my study [1], I showed that hydrogel rheological properties mediate the accum
 
 <img src='/images/PostdocSchematic2.png' width="90%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary illustration of how hydrogel rheological properties regulate the confinement of the nascent matrix, which imposes solid stress on chondrocytes, and drives an osteoarthritis- and injury-like response characterized by inflammation and migration. Taken from Song et al., [1].</em>
 
-1. <b>Song, J.</b>, Jones, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O. "Cell-Secreted Extracellular Matrix Mediates Chondrocyte Mechanosensation of Microenvironment Viscoelasticity." <em>Manuscript in preparation</em>. 
+1. <b>Song, J.</b>, Jones, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O. "Cell-Secreted Extracellular Matrix Mediates Chondrocyte Mechanosensation of Microenvironment Viscoelasticity." <em></em>. 
 
