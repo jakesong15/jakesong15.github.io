@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Cell-matrix mechanobiology</div>
-excerpt: "<img src='/images/PostdocTOC.png'>I studied how nascent secretions mediate how cells sense the mechanical properties of their surrounding extracellular matrix."
+excerpt: "<img src='/images/toc_postdoc3.png'>I studied how nascent secretions mediate how cells sense the mechanical properties of their surrounding extracellular matrix."
 collection: research
 ---
 
