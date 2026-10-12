@@ -4,7 +4,7 @@ excerpt: "<img src='/images/toc_visco2.png'><br/>I studied the microscopic origi
 collection: research
 ---
 
-Soft materials such as gels and glasses exhibit a universal dynamical response characterized by a broad distribution of relaxation times, the origins of which remain unclear. Working in the [Holten-Andersen group](https://holtengroup.com/) and the [McKinley group](https://nnf.mit.edu/) at MIT, I leveraged a model metal-coordinate particle gel system which exhibits such arrested dynamics (more details [here](https://jakesong15.github.io/research/4-mcoord/), to study and establish the physics underlying such complex relaxation phenomena in soft materials. 
+Soft materials such as gels and glasses exhibit a universal dynamical response characterized by a broad distribution of relaxation times, the origins of which remain unclear. Working in the [Holten-Andersen group](https://holtengroup.com/) and the [McKinley group](https://nnf.mit.edu/) at MIT, I leveraged a model metal-coordinate particle gel system which exhibits such arrested dynamics (more details [here](https://jakesong15.github.io/research/4-mcoord/)) to study and establish the physics underlying such complex relaxation phenomena in soft materials. 
 
 Thermal relaxation of multi-valent systems
 ------
