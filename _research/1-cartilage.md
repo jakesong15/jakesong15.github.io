@@ -10,5 +10,5 @@ In my study [1], I showed that hydrogel rheological properties mediate the accum
 
 <img src='/images/PostdocSchematic3.png' width="90%" style="display: block; margin: 0 auto;"><br/><em style="text-align: center; display: inline-block; width: 100%;">Summary illustration of how hydrogel rheological properties regulate the confinement of the nascent matrix, which imposes solid stress on chondrocytes, and drives an osteoarthritis- and injury-like response characterized by inflammation and migration. Taken from Song et al., [1].</em>
 
-1. <b>Song, J.</b>, Loveland, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O. "Hydrogel confinement of the nascent matrix imposes solid stress and mediates pathology of chondrocytes." <em></em>. 
+1. <b>Song, J.</b>, Loveland, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O. "Hydrogel confinement of the secreted nascent matrix imposes solid stress and mediates pathology of chondrocytes." <em>bioRxiv</em>. (2026) 
 
