@@ -7,7 +7,7 @@ volume:
 number: 
 pages: 
 doi: 
-pdf: 
+pdf: "2026_bioRxiv.pdf"
 arxiv: 
 hal: 
 image: "/images/toc_postdoc3.png"
