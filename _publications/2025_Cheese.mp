@@ -7,7 +7,7 @@ volume: "391"
 number: "112450"
 pages: 
 doi: "https://doi.org/10.1016/j.jfoodeng.2024.112450"
-pdf: 
+pdf: files/publications/2025_Cheese.pdf
 arxiv: 
 hal: 
 image: "/images/cheese.png"
