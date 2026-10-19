@@ -7,7 +7,7 @@ volume: 1-9
 number:
 pages:
 doi: "https://doi.org/10.1038/s41567-025-02869-x"
-pdf: 
+pdf: /files/publications/NatPhys2025.pdf
 arxiv: 
 hal: 
 image: "/images/NPhys.png"
