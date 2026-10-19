@@ -1,8 +1,8 @@
 ---
-title: "Cell-Secreted Extracellular Matrix Mediates Chondrocyte Mechanosensation of Microenvironment Viscoelasticity"
-authors: "<b>Song, J.</b>, Jones, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O."
-journal: 
-year: "2030"
+title: "Hydrogel confinement of the secreted nascent matrix imposes solid stress and mediates pathology of chondrocytes"
+authors: "<b>Song, J.</b>, Loveland, S., Yang, F., Bhutani, N., Levenston, M. E., & Chaudhuri, O."
+journal: "bioRxiv"
+year: "2026"
 volume: 
 number: 
 pages: 
