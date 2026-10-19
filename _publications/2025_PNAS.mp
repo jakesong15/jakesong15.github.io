@@ -7,7 +7,7 @@ volume: "122"
 number: "8"
 pages: "e2415927122"
 doi: "https://doi.org/10.1073/pnas.2415927122"
-pdf: 
+pdf: /files/publications/2025_Mussels.pdf
 arxiv: 
 hal: 
 image: "/images/GeorgePNAS2.png"
