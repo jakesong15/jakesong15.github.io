@@ -6,7 +6,7 @@ year: "2026"
 volume: 
 number: 
 pages: 
-doi: 
+doi: https://doi.org/10.64898/2026.10.19.760217
 pdf: /files/publications/2026_bioRxiv.pdf
 arxiv: 
 hal: 
